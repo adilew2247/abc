@@ -1,3 +1,3 @@
-Język programowania C
+## Język programowania - C
 
  
