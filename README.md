@@ -1,2 +1,3 @@
-# abc
-Język programowania (naprawdę chodzi o C).
+Język programowania C
+
+ 
