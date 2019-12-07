@@ -1,0 +1,9 @@
+4+/5 - kazde rozwiazanie w kilku plikach
+
+repo na github
+readme.md
+.gitignore
+katalogi dla zestawow zadan
+|^
+(readme.md albo teksty zadan w kodzie
+makefile : all, clean)
